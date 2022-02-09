@@ -1,0 +1,11 @@
+{
+	"name": "socketio",
+	"classPath": "src",
+	"url" : "https://github.com/DevInFlow/socket.io",
+	"license": "MIT",
+	"tags": ["js","socketio", "socket.io"],
+	"description": "Externs for socket.io",
+	"version": "1.0.0",
+	"releasenote": "",
+	"contributors": ["varadig"]
+}
